@@ -8,18 +8,6 @@ First Scene Broswe for the citits file
 
 ![image](https://github.com/sondosaabed/AStar_GreedyBFS_Palestine_Map/assets/65151701/9e632d6b-27fd-43f9-940e-21296f2dfde9)
 
-Proceed: 
-
-![image](https://github.com/sondosaabed/AStar_GreedyBFS_Palestine_Map/assets/65151701/36db5c38-b289-4041-917d-b5e62e7c3e48)
-
-Warning if you havn't chose a file yet: 
-
-![image](https://github.com/sondosaabed/AStar_GreedyBFS_Palestine_Map/assets/65151701/6d084716-3536-4cf3-94b0-1aab2d56cb2c)
-
-After chosing the three files: now run the map:
-
-![image](https://github.com/sondosaabed/AStar_GreedyBFS_Palestine_Map/assets/65151701/e429fdbb-dd81-4960-b8c1-ed90389d4c24)
-
 The map scene:
 
 ![image](https://github.com/sondosaabed/AStar_GreedyBFS_Palestine_Map/assets/65151701/b1da6de0-7440-4c69-89fb-0082d2475d97)
