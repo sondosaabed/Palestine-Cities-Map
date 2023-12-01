@@ -6,6 +6,13 @@ and air distance comma-separated Values (CSV) files.
 - The second section (Methodology) is concerned with the selected algorithms, their implementation, and the justification of that selection.
 - The third section (User Interface) presents the user interface specifications.
 
+## Features:
+- User can browse for the cities, streets and arial data.
+- User can chose distination and sourse cities.
+- User can find the shhortest path between them.
+- User can see the distance and the path on the map.
+- User can chose the algorithm used (A*) or (Gdeedy BFS).
+
 # Screenshots of the Running Program: 
 First Scene Broswe for the citits file
 
