@@ -1,4 +1,7 @@
-# Palestinian map using Java, JavaFX Astar (A*) and Greedy Best First Serach (GBFS)
+# Palestinian Cities map
+
+- Use the Report in the repo. for more detailed information.
+
 ## Summary
 Throughout the development of this project, the process was divided into 3 sections: 
 - The first section (Data Collection) collects data including Cities, roads,
@@ -12,6 +15,9 @@ and air distance comma-separated Values (CSV) files.
 - User can find the shhortest path between them.
 - User can see the distance and the path on the map.
 - User can chose the algorithm used (A*) or (Gdeedy BFS).
+
+## Note:
+Data was collected in csv files, but the heuristic values were not collected right. 15 cities are shown and paths on the map.
 
 # Screenshots of the Running Program: 
 First Scene Broswe for the citits file
