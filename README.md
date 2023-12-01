@@ -1,7 +1,10 @@
 # Palestinian map using Java, JavaFX Astar (A*) and Greedy Best First Serach (GBFS)
-Summary
-Throughout the development of this project, the process was divided into 3 sections. The first section (Data Collection) collects data including Cities, roads,
-and air distance comma-separated Values (CSV) files. The second section (Methodology) is concerned with the selected algorithms, their implementation, and the justification of that selection. The third section (User Interface) presents the user interface specifications.
+## Summary
+Throughout the development of this project, the process was divided into 3 sections: 
+- The first section (Data Collection) collects data including Cities, roads,
+and air distance comma-separated Values (CSV) files.
+- The second section (Methodology) is concerned with the selected algorithms, their implementation, and the justification of that selection.
+- The third section (User Interface) presents the user interface specifications.
 
 # Screenshots of the Running Program: 
 First Scene Broswe for the citits file
